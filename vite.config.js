@@ -4,5 +4,5 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: 'https://tamtam.vercel.app',
+  base: 'https://anish0p.vercel.app',
 });
