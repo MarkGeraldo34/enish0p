@@ -1,6 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/" }
-  ],
-  "domains": ["enish0p.vercel.app"]
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
 }
